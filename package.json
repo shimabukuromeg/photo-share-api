@@ -1,0 +1,21 @@
+{
+  "name": "photo-share-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,json,graphql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.14.2",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "graphql-playground-middleware-express": "^1.7.18",
+    "mongodb": "^3.5.8",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
